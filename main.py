@@ -1,2 +1,4 @@
-#helo world from remote
-print('hello, world !!')
+print('hello, wold !!')
+
+m = 5
+print(m)
